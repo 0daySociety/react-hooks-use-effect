@@ -40,7 +40,7 @@ function App() {
 
 
       <div>
-        {JSON.stringify(today)}
+        {today.toString()}
       </div>
     </div>
   );
